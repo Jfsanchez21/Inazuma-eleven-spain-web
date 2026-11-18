@@ -3,4 +3,4 @@
 Fan game **no oficial**. Este repositorio solo contiene la versión del juego preparada para el navegador.
 El proyecto completo está en un repositorio privado.
 
-Versión actual: **0.2.7.4 · Fase 2, paso 2.7** (IA avanzada, primera parte: los equipos leen el marcador —conservar, equilibrado o arriesgar—, ofrecen apoyos y triángulos solo con líneas de pase útiles, hacen desmarques de ruptura variados, pases al hueco y paredes; F3 muestra el papel de cada jugador y el modo del equipo). Pendiente de la prueba personal del usuario.
+Versión actual: **0.2.7.5 · Fase 2, paso 2.7** (defensa equilibrada: la IA presiona a unos 3 m y solo aprieta arriba tras un pase atrás, un rival de espaldas o una recepción en banda o de un pase largo; contiene el resto del tiempo; ya no entra al recibir; corta pases cuando de verdad llega y comete errores razonables; F3 muestra «contiene», «corta» y por qué presiona). Pendiente de la prueba personal del usuario.
