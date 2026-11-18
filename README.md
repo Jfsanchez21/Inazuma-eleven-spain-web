@@ -3,6 +3,6 @@
 Fan game **no oficial**. Este repositorio solo contiene la versión del juego preparada para el navegador.
 El proyecto completo está en un repositorio privado.
 
-Versión actual: **0.2.7.5.1 · Fase 2, paso 2.7** (campo 5c5 de 56 × 35 m y ataque recalibrado para seguir combinando). Pendiente de la prueba personal del usuario.
+Versión actual: **0.2.7.5.2 · Fase 2, paso 2.7** (defensa por zonas sobre el campo 5c5 de 56 × 35 m: repliegue lejos de la portería, acoso al acercarse y salida al poseedor en la zona de tiro, con cobertura y relevos). Pendiente de la prueba personal del usuario.
 
 Versiones anteriores para comparar: `versiones/<número>/` (por ejemplo, `versiones/0.2.7.5.1/`).
